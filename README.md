@@ -4,8 +4,7 @@ First ever game created using Corona SDK which is a free 2D game engine which us
 With the help of youtube tutorial I was able to build this game in early mid 2015
 
 ### features
-Enemies have sent Bomb Mines
-Save Yourself from it
+Enemies have sent Bomb Mines. Save Yourself from it
 
 ### How to play
 Tap to start from the start/restart screen.
@@ -21,3 +20,11 @@ Youtube referance Video : https://www.youtube.com/watch?v=0GtUxdSeWzk
 
 ## Note 
 All the files images, code files are to be kept in the same folder.
+
+## Screenshots
+
+![71qean9penl](https://user-images.githubusercontent.com/15246084/40929092-51f02c1c-6841-11e8-8db1-414605fac0e9.png)
+
+![61d4-nvw6zl](https://user-images.githubusercontent.com/15246084/40929101-5be5f65c-6841-11e8-9a94-62115b78fb65.png)
+
+![61m-l5isbll](https://user-images.githubusercontent.com/15246084/40929107-61f53daa-6841-11e8-93eb-a5b806e043f6.png)

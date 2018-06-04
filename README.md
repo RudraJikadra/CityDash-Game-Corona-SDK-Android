@@ -20,4 +20,4 @@ Game is Live on Amazon app store : https://www.amazon.com/RJ-Games-City-Jet/dp/B
 Youtube referance Video : https://www.youtube.com/watch?v=0GtUxdSeWzk
 
 ## Note 
-All the files images, code files are to be kept on the same folder.
+All the files images, code files are to be kept in the same folder.

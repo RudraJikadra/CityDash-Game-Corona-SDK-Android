@@ -2,9 +2,11 @@
 
 First ever game created using Corona SDK which is a free 2D game engine which uses Lua Language.
 With the help of youtube tutorial I was able to build this game in early mid 2015
+Enemies have sent Bomb Mines. Save Yourself from it
 
 ### features
-Enemies have sent Bomb Mines. Save Yourself from it
+Easy to understand lua language.
+With Revmob Ad support in the code.
 
 ### How to play
 Tap to start from the start/restart screen.
